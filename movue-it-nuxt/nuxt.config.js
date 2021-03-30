@@ -48,5 +48,7 @@ export default {
   build: {
   },
 
-  tailwindcss: {},
+  tailwindcss: {
+    viewer: false,
+  },
 }
